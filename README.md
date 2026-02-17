@@ -3,11 +3,14 @@
 
 A clean and modern login screen built with Flutter. Features a gradient background, form validation, password visibility toggle, "Remember me" checkbox, and social login buttons.
 
+
 ## 📸 Screenshots
 
-| Login Screen | Logged in Screen | Validation Error |
-|:------------:|:----------------:|:----------------:|
-| <img src="https://raw.githubusercontent.com/Nahida-Jannat/login_ui/master/assets/images/Screenshot_20260217_171902.png" width="250"> | <img src="https://raw.githubusercontent.com/Nahida-Jannat/login_ui/master/assets/images/Screenshot_20260217_171959.png" width="250"> | <img src="https://raw.githubusercontent.com/Nahida-Jannat/login_ui/master/assets/images/Screenshot_20260217_172048.png" width="250"> |
+| Home Screen | Entering Numbers                                      | Calculation Result                                     |
+|-------------|-------------------------------------------------------|--------------------------------------------------------|
+| ![Home](assets/images/Screenshot_20260217_171902.png) | ![Input](assets/images/Screenshot_20260217_171959.png) | ![Result](assets/images/Screenshot_20260217_171948.png) |
+
+## Features
 
 - ✨ Beautiful gradient background
 - 🔐 Email and password validation
@@ -76,15 +79,3 @@ Contributions are welcome! Please open an issue or submit a pull request.
 
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
 ```
-
-
-
-
-
-
-
-
-
-
-
-
