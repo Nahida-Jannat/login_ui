@@ -74,9 +74,5 @@ The original code had a minor overflow in the "Remember me" row. This was fixed 
 
 Contributions are welcome! Please open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
-```
 
 
