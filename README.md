@@ -8,7 +8,7 @@ A clean and modern login screen built with Flutter. Features a gradient backgrou
 
 | Home Screen | Successfully Logged In                                      | Error                                     |
 |-------------|-------------------------------------------------------|--------------------------------------------------------|
-| ![Home](assets/images/Screenshot_20260217_171902.png) | ![login](assets/images/Screenshot_20260217_171959.png) | ![Error](assets/images/Screenshot_20260217_171948.png) |
+| ![Home](assets/images/Screenshot_20260217_171902.png) | ![login](assets/images/Screenshot_20260217_171959.png) | ![Error](assets/images/Screenshot_20260217_172048.png) |
 
 ## Features
 
@@ -79,3 +79,4 @@ Contributions are welcome! Please open an issue or submit a pull request.
 
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
 ```
+
