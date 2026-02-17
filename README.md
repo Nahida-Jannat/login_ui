@@ -13,6 +13,7 @@ assets/images/Screenshot_20260217_171902.png
 |-------------|-------------------------------------------------------|--------------------------------------------------------|
 | ![Login Screen](https://raw.githubusercontent.com/Nahida-Jannat/login_ui/master/assets/images/Screenshot_20260217_171902.png)| ![Input](assets/images/Screenshot_20260217_111341.png) | ![Result](assets/images/Screenshot_20260217_111358.png) |
 
+![Login Screen](https://raw.githubusercontent.com/Nahida-Jannat/login_ui/master/assets/images/Screenshot_20260217_171902.png)
 ## Features
 
 - ✨ Beautiful gradient background
@@ -82,6 +83,7 @@ Contributions are welcome! Please open an issue or submit a pull request.
 
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
 ```
+
 
 
 
