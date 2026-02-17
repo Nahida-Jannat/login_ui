@@ -228,28 +228,36 @@ class _LoginScreenState extends State<LoginScreen> {
                           Row(
                             mainAxisAlignment: MainAxisAlignment.spaceBetween,
                             children: [
-                              Row(
-                                children: [
-                                  Checkbox(
-                                    value: _rememberMe,
-                                    onChanged: (value) {
-                                      setState(() {
-                                        _rememberMe = value!;
-                                      });
-                                    },
-                                    activeColor: Colors.deepPurple,
-                                    shape: RoundedRectangleBorder(
-                                      borderRadius: BorderRadius.circular(4),
+                              // Left side: Checkbox + "Remember me" - Expanded to take available space
+                              Expanded(
+                                child: Row(
+                                  children: [
+                                    Checkbox(
+                                      value: _rememberMe,
+                                      onChanged: (value) {
+                                        setState(() {
+                                          _rememberMe = value ?? false;
+                                        });
+                                      },
+                                      activeColor: Colors.deepPurple,
+                                      shape: RoundedRectangleBorder(
+                                        borderRadius: BorderRadius.circular(4),
+                                      ),
                                     ),
-                                  ),
-                                  Text(
-                                    'Remember me',
-                                    style: TextStyle(
-                                      color: Colors.grey[700],
+                                    Flexible(
+                                      child: Text(
+                                        'Remember me',
+                                        style: TextStyle(
+                                          color: Colors.grey[700],
+                                        ),
+                                        overflow: TextOverflow
+                                            .ellipsis, // handles overflow gracefully
+                                      ),
                                     ),
-                                  ),
-                                ],
+                                  ],
+                                ),
                               ),
+                              // Right side: Forgot Password button
                               TextButton(
                                 onPressed: () {
                                   // Navigate to forgot password screen
@@ -280,7 +288,8 @@ class _LoginScreenState extends State<LoginScreen> {
                                   borderRadius: BorderRadius.circular(12),
                                 ),
                                 elevation: 0,
-                                padding: const EdgeInsets.symmetric(vertical: 16),
+                                padding:
+                                const EdgeInsets.symmetric(vertical: 16),
                               ),
                               child: _isLoading
                                   ? const SizedBox(
@@ -288,9 +297,8 @@ class _LoginScreenState extends State<LoginScreen> {
                                 width: 24,
                                 child: CircularProgressIndicator(
                                   strokeWidth: 2,
-                                  valueColor: AlwaysStoppedAnimation<Color>(
-                                    Colors.white,
-                                  ),
+                                  valueColor: AlwaysStoppedAnimation<
+                                      Color>(Colors.white),
                                 ),
                               )
                                   : const Text(
@@ -312,7 +320,8 @@ class _LoginScreenState extends State<LoginScreen> {
                                 child: Divider(color: Colors.grey[300]),
                               ),
                               Padding(
-                                padding: const EdgeInsets.symmetric(horizontal: 16),
+                                padding:
+                                const EdgeInsets.symmetric(horizontal: 16),
                                 child: Text(
                                   'Or continue with',
                                   style: TextStyle(color: Colors.grey[600]),
