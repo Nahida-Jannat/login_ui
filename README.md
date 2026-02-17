@@ -9,12 +9,11 @@ A clean and modern login screen built with Flutter. Features a gradient backgrou
 assets/images/Screenshot_20260217_171902.png
 ## 📸 Screenshots
 
-| Home Screen | Entering Numbers                                      | Calculation Result                                     |
-|-------------|-------------------------------------------------------|--------------------------------------------------------|
-| ![Login Screen](https://raw.githubusercontent.com/Nahida-Jannat/login_ui/master/assets/images/Screenshot_20260217_171902.png)| ![Input](assets/images/Screenshot_20260217_111341.png) | ![Result](assets/images/Screenshot_20260217_111358.png) |
+## 📸 Screenshots
 
-![Login Screen](https://raw.githubusercontent.com/Nahida-Jannat/login_ui/master/assets/images/Screenshot_20260217_171902.png)
-## Features
+| Login Screen | Logged in Screen | Validation Error |
+|:------------:|:----------------:|:----------------:|
+| <img src="https://raw.githubusercontent.com/Nahida-Jannat/login_ui/master/assets/images/Screenshot_20260217_171902.png" width="250"> | <img src="https://raw.githubusercontent.com/Nahida-Jannat/login_ui/master/assets/images/Screenshot_20260217_171959.png" width="250"> | <img src="https://raw.githubusercontent.com/Nahida-Jannat/login_ui/master/assets/images/Screenshot_20260217_172048.png" width="250"> |
 
 - ✨ Beautiful gradient background
 - 🔐 Email and password validation
@@ -83,6 +82,7 @@ Contributions are welcome! Please open an issue or submit a pull request.
 
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
 ```
+
 
 
 
