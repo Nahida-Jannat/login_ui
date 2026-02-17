@@ -11,7 +11,7 @@ assets/images/Screenshot_20260217_171902.png
 
 | Home Screen | Entering Numbers                                      | Calculation Result                                     |
 |-------------|-------------------------------------------------------|--------------------------------------------------------|
-| ![Home](assets/images/Screenshot_20260217_171902.png) | ![Input](assets/images/Screenshot_20260217_111341.png) | ![Result](assets/images/Screenshot_20260217_111358.png) |
+| ![Home Screen](assets/images/Screenshot_20260217_171902.png) | ![Input](assets/images/Screenshot_20260217_111341.png) | ![Result](assets/images/Screenshot_20260217_111358.png) |
 
 ## Features
 
@@ -82,6 +82,7 @@ Contributions are welcome! Please open an issue or submit a pull request.
 
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
 ```
+
 
 
 
