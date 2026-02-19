@@ -56,7 +56,7 @@ A clean and modern login screen built with Flutter. Features a gradient backgrou
 - `SocialLoginButton` – Reusable button for social logins.
 
 ## Screenshort
-![Screenshot](Blue Smartphone Promo Poster.png)
+![Screenshot](./Blue Smartphone Promo Poster.png)
 
 ## Dependencies
 
