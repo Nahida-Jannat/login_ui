@@ -55,9 +55,8 @@ A clean and modern login screen built with Flutter. Features a gradient backgrou
 - `LoginScreen` – Stateful widget containing the entire UI and logic.
 - `SocialLoginButton` – Reusable button for social logins.
 
-### Key Fix: RenderFlex Overflow
-
-The original code had a minor overflow in the "Remember me" row. This was fixed by wrapping the left side (checkbox + text) in an `Expanded` widget and using `Flexible` for the text. See the [related commit](https://github.com/yourusername/flutter-login-ui/commit/xxx) for details.
+## Screenshort
+![Screenshot](Blue Smartphone Promo Poster.png)
 
 ## Dependencies
 
