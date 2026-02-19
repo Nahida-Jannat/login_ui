@@ -55,8 +55,10 @@ A clean and modern login screen built with Flutter. Features a gradient backgrou
 - `LoginScreen` – Stateful widget containing the entire UI and logic.
 - `SocialLoginButton` – Reusable button for social logins.
 
-## Screenshort
-![Screenshot](./Blue Smartphone Promo Poster.png)
+## Screenshot
+<p align="center">
+  <img src="https://github.com/Nahida-Jannat/login_ui/raw/master/Blue%20Smartphone%20Promo%20Poster.png" alt="Blue Smartphone Promo Poster" width="80%" style="max-width: 500px;">
+</p>
 
 ## Dependencies
 
