@@ -57,7 +57,7 @@ A clean and modern login screen built with Flutter. Features a gradient backgrou
 
 ## Screenshot
 <p align="center">
-  <img src="https://github.com/Nahida-Jannat/login_ui/raw/master/Blue%20Smartphone%20Promo%20Poster.png" alt="Blue Smartphone Promo Poster" width="60%" style="max-width: 500px;">
+  <img src="https://github.com/Nahida-Jannat/login_ui/raw/master/Blue%20Smartphone%20Promo%20Poster(1).png" alt="Blue Smartphone Promo Poster" width="60%" style="max-width: 500px;">
 </p>
 
 ## Dependencies
