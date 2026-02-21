@@ -1,7 +1,8 @@
 ```markdown
 # Flutter Login UI
 
-A clean and modern login screen built with Flutter. Features a gradient background, form validation, password visibility toggle, "Remember me" checkbox, and social login buttons.
+A clean and modern login screen built with Flutter. Features a gradient background, form validation,
+ password visibility toggle, "Remember me" checkbox, and social login buttons.
 
 ## Features
 
